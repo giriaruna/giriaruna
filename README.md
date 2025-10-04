@@ -1,18 +1,18 @@
-<!-- Header with GIF -->
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="500" alt="Dancing Lights"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="Dark Blue Sparkle Banner"/>
 </p>
 
 <h1 align="center" style="color: #1E90FF;">✨ Hi, I'm Aruna ✨</h1>
 
+<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=giriaruna&label=💃%20Dance%20Energy&color=1E90FF&style=for-the-badge" alt="Dance Energy"/>
+  <img src="https://komarev.com/ghpvc/?username=giriaruna&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <em>Computer Engineering Student @ NYU Tandon | Dreamer in Blue 💙 </em>
+  <em>Computer Engineering Student @ NYU Tandon | Dreamer in Blue 💙</em>
 </p>
-
 
 ---
 
@@ -20,8 +20,7 @@
 - 🎓 **Computer Engineering Senior** (NYU Tandon, graduating May 2026)  
 - 💻 Passionate about **Data Science, Software Engineering, and Accessibility**  
 - 💫 Love mixing **fairytales, music, and tech** into my work  
-- 🌍 Traveler at heart — I love roaming around places**  
-
+- 🌍 True wanderer — happiest when **roaming Europe’s streets** ✨  
 ---
 
 ### ⚡ Tech Skills
@@ -45,7 +44,7 @@
 ### ✨ Fun Zone
 <p align="center">
   Even if my feet don’t listen, my soul is always dancing ✨💙  
-  Also… if you ever find me lost, I’m probably chasing gelato in a new city 🍦✈️
+  And when I’m not coding or dreaming — I’m probably **getting lost in Europe with an ice cream in hand** 🍦✈️
 </p>
 
 <p align="center">
@@ -53,8 +52,16 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" alt="Cinderella Waltz"/>
   <!-- Aesthetic anime dance -->
   <img src="https://media.giphy.com/media/3og0IPnAxyMmUwrK1W/giphy.gif" width="200" alt="Anime Dance Vibes"/>
-  <!-- Fun & relatable goofy dance -->
+  <!-- Fun & goofy dance -->
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Goofy Dance"/>
+</p>
+
+---
+
+### 🎮 Mini Fun / Game
+<p align="center">
+  Want to play a little puzzle or game? Click below to enter my fun corner!  
+  <a href="https://your-game-page.vercel.app" target="_blank">🎲 Play Here!</a>
 </p>
 
 ---
@@ -67,4 +74,4 @@
 
 ---
 
-⭐️ *Made with code, music, sparkles, travel snaps, and a little bit of magic* ✨💙
+⭐️ *Made with code, music, sparkles, ice cream, European adventures, and a little bit of magic* ✨💙
