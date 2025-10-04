@@ -44,7 +44,7 @@
 ### ✨ Fun Zone
 <p align="center">
   Even if my feet don’t listen, my soul is always dancing ✨💙  
-  And when I’m not coding or dreaming — I’m probably **getting lost in Europe with an ice cream in hand** 🍦✈️
+  And when I’m not coding or dreaming — I’m probably getting lost in Europe with an ice cream in hand 🍦✈️
 </p>
 
 <p align="center">
