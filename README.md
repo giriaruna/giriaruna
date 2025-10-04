@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 **Computer Engineering Senior** (NYU Tandon, graduating May 2026)  
-- 💻 Passionate about **Data Science, Software Engineering, and Accessibility**  
+- 💻 Passionate about **Data Science, Software Engineering, and Machine Learning**  
 - 💫 Love mixing **fairytales, music, and tech** into my work  
 - 🌍 True wanderer — happiest when **roaming Europe’s streets** ✨  
 ---
