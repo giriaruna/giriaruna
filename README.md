@@ -30,31 +30,15 @@
 
 ---
 
-### 🎶 Now Playing on Spotify
+### 💫 Creative Flow
 <p align="center">
-  <a href="https://open.spotify.com/user/bdk0sakec9ot5cus7g6syt7ca" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bdk0sakec9ot5cus7g6syt7ca&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0d1117" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Coding animation" style="margin:10px; border-radius:10px;"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220" alt="Data visualization" style="margin:10px; border-radius:10px;"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="220" alt="Network motion" style="margin:10px; border-radius:10px;"/>
 </p>
 
-*(Auto-updates with my latest jams 🎧✨)*  
 
----
 
-### ✨ Fun Zone
-<p align="center">
-  Even if my feet don’t listen, my soul is always dancing ✨💙  
-  And when I’m not coding or dreaming — I’m probably getting lost in Europe with an ice cream in hand 🍦✈️
-</p>
-
-<p align="center">
-  <!-- Elegant Cinderella waltz -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" alt="Cinderella Waltz"/>
-  <!-- Aesthetic anime dance -->
-  <img src="https://media.giphy.com/media/3og0IPnAxyMmUwrK1W/giphy.gif" width="200" alt="Anime Dance Vibes"/>
-  <!-- Fun & goofy dance -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Goofy Dance"/>
-</p>
 
 ---
 
