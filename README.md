@@ -54,6 +54,7 @@
 <p align="center">
   <a href="mailto:ag8876@nyu.edu"><img src="https://img.shields.io/badge/Email-AG8876%40nyu.edu-blue?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/aruna-giri"><img src="https://img.shields.io/badge/LinkedIn-Aruna%20Giri-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-giriaruna.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-orange?logo=vercel&logoColor=white"></a>
 </p>
 
 ---
