@@ -27,18 +27,12 @@
 
 ---
 
-<h3 style="color:#4682B4; font-family:'Trebuchet MS', sans-serif;">⚡ Tech Skills</h3>
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,verilog" height="45" alt="Languages"/>
-  <br/>
-  <!-- Libraries & Tools -->
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,seaborn,excel" height="45" alt="Libraries & Tools"/>
-  <br/>
-  <!-- Extras -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion" height="45" alt="Extras"/>
-</p>
+### 💡 Favorite Technologies
+| Category | Stack |
+|-----------|--------|
+| **Languages** | Python 🐍 · C++ 💻 · SQL 📊 · Verilog ⚙️ |
+| **Libraries / Tools** | Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch |
+| **Creative / Extras** | Notion · Figma · Jupyter Notebook · Vercel |
 
 ---
 
