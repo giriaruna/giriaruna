@@ -20,7 +20,7 @@
 
 ### 🌷 About Me
 - 🎓 **B.S. Computer Engineering** @ NYU Tandon (Class of 2026)  
-- 💻 Exploring **Machine Learning**, **Data Science**, and **Software Design**  
+- 💻 Exploring **Machine Learning**, **Data Science**, and **Software Engineering**  
 - 🧠 Passionate about the connection between **art, logic, and imagination**  
 - 🫶 Currently working on **Computer Vision** and **Generative ML** projects  
 - ☕ Always coding with coffee, music, and a little blue sparkle ✨ 
