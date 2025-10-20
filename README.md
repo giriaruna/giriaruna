@@ -13,7 +13,7 @@
 </p>
 
 <p align="center" style="font-family:'Trebuchet MS', sans-serif; color:#5F9EA0;">
-  <em>Computer Engineering Student @ NYU Tandon | Dreamer in Blue 💙</em>
+  <em>Computer Engineering Student @ NYU Tandon </em>
 </p>
 
 ---
@@ -21,18 +21,24 @@
 ### 🌷 About Me
 - 🎓 **B.S. Computer Engineering** @ NYU Tandon (Class of 2026)  
 - 💻 Exploring **Machine Learning**, **Data Science**, and **Software Engineering**  
-- 🧠 Passionate about the connection between **art, logic, and imagination**  
-- 🫶 Currently working on **Computer Vision** and **Generative ML** projects  
-- ☕ Always coding with coffee, music, and a little blue sparkle ✨ 
+- 🫶 Currently working on **Generative ML** projects
+- 🚀 My hobbies include exploring new places 🧳, roaming around Europe 🌍, dancing 💃, and enjoying life in NYC 🗽
 
 ---
 
-### 💡 Favorite Technologies
-| Category | Stack |
-|-----------|--------|
-| **Languages** | Python 🐍 · C++ 💻 · SQL 📊 · Verilog ⚙️ |
-| **Libraries / Tools** | Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch |
-| **Creative / Extras** | Notion · Figma · Jupyter Notebook · Vercel |
+### Favorite Tools: 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-3178C6?style=for-the-badge&logo=seaborn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ---
 
@@ -48,7 +54,6 @@
 <h3 style="color:#4682B4; font-family:'Trebuchet MS', sans-serif;">🧠 Interests</h3>
 
 💙 Machine Learning  
-🎨 UI/UX Design  
 📊 Data Visualization  
 🌐 Creative Coding & Storytelling Through Data  
 
