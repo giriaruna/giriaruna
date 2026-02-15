@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aruna's Engine</title>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+    <style>
+        body { font-family: sans-serif; background: #121212; color: white; padding: 50px; }
+        .container { max-width: 900px; margin: auto; }
+        input { padding: 15px; width: 70%; border-radius: 30px; border: none; }
+        button { padding: 15px 30px; border-radius: 30px; background: #1DB954; font-weight: bold; cursor: pointer; border: none; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px; margin-top: 30px; }
+        img { width: 100%; height: 150px; object-fit: cover; border-radius: 10px; border: 1px solid #333; }
+        .logo-sec { border: 1px solid #1DB954; padding: 20px; margin-bottom: 20px; border-radius: 10px; display: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>My Web Crawler</h1>
+        <input type="text" id="url" placeholder="enter domain...">
+        <button onclick="startCrawl()">Crawl</button>
+        <p id="status"></p>
+
+        <div id="logoSection" class="logo-sec">
+            <h3>Logos Found</h3>
+            <div id="logoGrid" class="grid"></div>
+        </div>
+
+        <div id="imageGrid" class="grid"></div>
+    </div>
+
+    <script>
+        async function startCrawl() {
+            const url = document.getElementById('url').value;
+            document.getElementById('status').innerText = "crawling...";
+            
+            const resp = await fetch('/api/crawl?url=' + encodeURIComponent(url), { method: 'POST' });
+            const data = await resp.json();
+
+            confetti({ particleCount: 150, spread: 70, origin: { y: 0.6 } });
+            document.getElementById('status').innerText = "done! found " + data.images.length + " images.";
+
+            if (data.logos.length > 0) {
+                document.getElementById('logoSection').style.display = 'block';
+                document.getElementById('logoGrid').innerHTML = data.logos.map(src => `<img src="${src}">`).join('');
+            }
+            document.getElementById('imageGrid').innerHTML = data.images.map(src => `<img src="${src}">`).join('');
+        }
+    </script>
+</body>
+</html>
