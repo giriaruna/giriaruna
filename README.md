@@ -11,34 +11,26 @@ Outside of tech, I’m usually coding with a coffee nearby, exploring new coffee
 ## 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-E6E6FA?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFACD?style=for-the-badge&logo=javascript&logoColor=323330)
+![SQL](https://img.shields.io/badge/SQL-D1E9F6?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
 ---
 
 ### Data & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FFD1DC?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-E6E6FA?style=for-the-badge&logo=numpy&logoColor=013243)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FADADD?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 
 ---
 
 ### Web & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-FFFACD?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-D1E9F6?style=for-the-badge&logo=streamlit&logoColor=FE4B4B)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🌸 What I Care About
-- Building technology that supports people, not overwhelms them  
-- Accessibility-first thinking  
-- Clean, readable, intentional systems  
-- Designing with empathy and purpose  
 
 ---
 
